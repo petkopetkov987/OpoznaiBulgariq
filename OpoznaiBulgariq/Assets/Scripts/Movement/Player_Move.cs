@@ -4,21 +4,26 @@ using UnityEngine;
 
 public class Player_Move : MonoBehaviour
 {
-    public float walkSpeed = 10.0f;
-
+    public float runSpeed = 10.0f;
     public bool facingRight = true;
+    public Animator animator;
 
+    void Start()
+    {
+
+    }
     void FixedUpdate()
     {
         float move = Input.GetAxis("Horizontal");
+        animator.SetFloat("Speed", Mathf.Abs(move));
 
         if (move < 0)
         {
-            GetComponent<Rigidbody2D>().velocity = new Vector3(move * walkSpeed, GetComponent<Rigidbody2D>().velocity.y);
+            GetComponent<Rigidbody2D>().velocity = new Vector3(move * runSpeed, GetComponent<Rigidbody2D>().velocity.y);
         }
         if (move > 0)
         {
-            GetComponent<Rigidbody2D>().velocity = new Vector3(move * walkSpeed, GetComponent<Rigidbody2D>().velocity.y);
+            GetComponent<Rigidbody2D>().velocity = new Vector3(move * runSpeed, GetComponent<Rigidbody2D>().velocity.y);
         }
         if (move < 0 && facingRight)
         {

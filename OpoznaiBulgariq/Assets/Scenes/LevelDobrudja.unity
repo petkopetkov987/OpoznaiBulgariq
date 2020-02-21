@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 2598919}
   - component: {fileID: 2598918}
   m_Layer: 9
-  m_Name: bala1 (9)
+  m_Name: wheat5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -927,7 +927,7 @@ PrefabInstance:
     - target: {fileID: 7558635446238366206, guid: 8196b6559b56d6743bde80a6d599e330,
         type: 3}
       propertyPath: m_Name
-      value: jutvarTumen
+      value: man4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: -5506087552563234814, guid: 8196b6559b56d6743bde80a6d599e330,
@@ -968,7 +968,6 @@ Transform:
   m_Children:
   - {fileID: 1308040050}
   - {fileID: 424273852}
-  - {fileID: 1433833718}
   - {fileID: 1536176387}
   m_Father: {fileID: 1189446771}
   m_RootOrder: 0
@@ -1047,7 +1046,7 @@ GameObject:
   - component: {fileID: 37797813}
   - component: {fileID: 37797812}
   m_Layer: 9
-  m_Name: klon2 (1)
+  m_Name: wood2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1355,7 +1354,7 @@ PrefabInstance:
     - target: {fileID: 5280314918268948012, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
       propertyPath: m_Name
-      value: treva5 (3)
+      value: animatedGrass8
       objectReference: {fileID: 0}
     - target: {fileID: 7445526038176869854, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
@@ -2891,7 +2890,7 @@ GameObject:
   - component: {fileID: 176209474}
   - component: {fileID: 176209475}
   m_Layer: 0
-  m_Name: nebe
+  m_Name: backgroundSky
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3001,8 +3000,8 @@ Transform:
   m_LocalPosition: {x: 19, y: 11.291, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 1249960824}
-  m_RootOrder: 4
+  m_Father: {fileID: 2017449861}
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &176366263
 BoxCollider2D:
@@ -3205,7 +3204,7 @@ PrefabInstance:
     - target: {fileID: 5280314918268948012, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
       propertyPath: m_Name
-      value: treva5
+      value: animatedGrass2
       objectReference: {fileID: 0}
     - target: {fileID: 7445526038176869854, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
@@ -3257,7 +3256,7 @@ GameObject:
   - component: {fileID: 180326294}
   - component: {fileID: 180326293}
   m_Layer: 9
-  m_Name: krugulkamuk (1)
+  m_Name: stone2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3338,7 +3337,7 @@ GameObject:
   - component: {fileID: 201521742}
   - component: {fileID: 201521743}
   m_Layer: 11
-  m_Name: grass5 (1)
+  m_Name: grass3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3582,7 +3581,7 @@ PrefabInstance:
     - target: {fileID: 5280314918268948012, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
       propertyPath: m_Name
-      value: treva5 (4)
+      value: animatedGrass8
       objectReference: {fileID: 0}
     - target: {fileID: 7445526038176869854, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
@@ -3634,7 +3633,7 @@ GameObject:
   - component: {fileID: 230477205}
   - component: {fileID: 230477206}
   m_Layer: 11
-  m_Name: grass5 (2)
+  m_Name: grass5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3714,7 +3713,7 @@ GameObject:
   - component: {fileID: 231279834}
   - component: {fileID: 231279833}
   m_Layer: 9
-  m_Name: klon1
+  m_Name: wood1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3795,7 +3794,7 @@ GameObject:
   - component: {fileID: 235917863}
   - component: {fileID: 235917862}
   m_Layer: 9
-  m_Name: malukkamuk (4)
+  m_Name: stone2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4070,7 +4069,7 @@ GameObject:
   - component: {fileID: 339567597}
   - component: {fileID: 339567596}
   m_Layer: 9
-  m_Name: malukkamuk (5)
+  m_Name: stone6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4151,7 +4150,7 @@ GameObject:
   - component: {fileID: 345997292}
   - component: {fileID: 345997291}
   m_Layer: 9
-  m_Name: bala1 (10)
+  m_Name: wheat6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4307,7 +4306,7 @@ GameObject:
   - component: {fileID: 351159153}
   - component: {fileID: 351159152}
   m_Layer: 9
-  m_Name: malukkamuk (3)
+  m_Name: stone6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4506,12 +4505,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 368731169}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 176.37, y: -3.4, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 176.37, y: -3.399994, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 1249960824}
-  m_RootOrder: 5
+  m_Father: {fileID: 2017449861}
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &368731171
 BoxCollider2D:
@@ -4971,7 +4970,7 @@ GameObject:
   - component: {fileID: 391663086}
   - component: {fileID: 391663085}
   m_Layer: 9
-  m_Name: krugulkamuk (3)
+  m_Name: stone5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5206,7 +5205,7 @@ PrefabInstance:
     - target: {fileID: 5280314918268948012, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
       propertyPath: m_Name
-      value: treva5 (1)
+      value: animatedGrass3
       objectReference: {fileID: 0}
     - target: {fileID: 7445526038176869854, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
@@ -5300,7 +5299,7 @@ GameObject:
   - component: {fileID: 424273853}
   - component: {fileID: 424273854}
   m_Layer: 9
-  m_Name: zemq2
+  m_Name: land2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5517,7 +5516,7 @@ PrefabInstance:
     - target: {fileID: 7673642998445874258, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
       propertyPath: m_Name
-      value: treva6 (2)
+      value: animatedGrass4
       objectReference: {fileID: 0}
     - target: {fileID: 7985469552521990144, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
@@ -6263,7 +6262,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 821.484, y: -0.022064209, z: -10}
+  m_LocalPosition: {x: -136.56015, y: 2.836609, z: -10}
   m_LocalScale: {x: 3.0433855, y: 0.18493956, z: 1}
   m_Children: []
   m_Father: {fileID: 700979641}
@@ -6388,7 +6387,7 @@ GameObject:
   - component: {fileID: 536541230}
   - component: {fileID: 536541229}
   m_Layer: 9
-  m_Name: bala1 (8)
+  m_Name: wheat4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6862,7 +6861,7 @@ PrefabInstance:
     - target: {fileID: 5280314918268948012, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
       propertyPath: m_Name
-      value: treva5
+      value: animatedGrass2
       objectReference: {fileID: 0}
     - target: {fileID: 7445526038176869854, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
@@ -7116,7 +7115,7 @@ PrefabInstance:
     - target: {fileID: 7673642998445874258, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
       propertyPath: m_Name
-      value: treva6
+      value: animatedGrass1
       objectReference: {fileID: 0}
     - target: {fileID: 7985469552521990144, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
@@ -7306,63 +7305,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 323.24298, y: 29.663162}
   m_EdgeRadius: 0
---- !u!1 &588833649
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 588833650}
-  - component: {fileID: 588833651}
-  m_Layer: 0
-  m_Name: WallCollider
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &588833650
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 588833649}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -162.92, y: 17.43, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1696537442}
-  m_RootOrder: 8
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &588833651
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 588833649}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 6200000, guid: 053e44b32a4a50f44a30ec5fdb363b98, type: 2}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.35660172, y: -8.035118}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 0.14368439, y: 24.318344}
-  m_EdgeRadius: 0
 --- !u!1 &598960576
 GameObject:
   m_ObjectHideFlags: 0
@@ -7374,7 +7316,7 @@ GameObject:
   - component: {fileID: 598960578}
   - component: {fileID: 598960577}
   m_Layer: 9
-  m_Name: krugulkamuk (2)
+  m_Name: stone1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7589,7 +7531,7 @@ PrefabInstance:
     - target: {fileID: 7673642998445874258, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
       propertyPath: m_Name
-      value: treva6 (3)
+      value: animatedGrass7
       objectReference: {fileID: 0}
     - target: {fileID: 7985469552521990144, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
@@ -7858,7 +7800,7 @@ GameObject:
   - component: {fileID: 641687728}
   - component: {fileID: 641687729}
   m_Layer: 0
-  m_Name: 3
+  m_Name: background3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8155,7 +8097,7 @@ PrefabInstance:
     - target: {fileID: -2289091537582135439, guid: 5caef2a5131130440819778f1f32ba32,
         type: 3}
       propertyPath: m_Name
-      value: jutvar_1
+      value: man1
       objectReference: {fileID: 0}
     - target: {fileID: -2212001134980351534, guid: 5caef2a5131130440819778f1f32ba32,
         type: 3}
@@ -8391,7 +8333,7 @@ GameObject:
   - component: {fileID: 652352293}
   - component: {fileID: 652352294}
   m_Layer: 11
-  m_Name: foregroundDobruja4New
+  m_Name: foreground4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8409,7 +8351,7 @@ Transform:
   m_LocalScale: {x: 6.2857265, y: 3.0235016, z: 1}
   m_Children: []
   m_Father: {fileID: 1137986322}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &652352294
 SpriteRenderer:
@@ -8471,7 +8413,7 @@ GameObject:
   - component: {fileID: 654888668}
   - component: {fileID: 654888669}
   m_Layer: 11
-  m_Name: grass5 (4)
+  m_Name: grass7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8675,7 +8617,7 @@ PrefabInstance:
     - target: {fileID: 7673642998445874258, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
       propertyPath: m_Name
-      value: treva6 (3)
+      value: animatedGrass6
       objectReference: {fileID: 0}
     - target: {fileID: 7985469552521990144, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
@@ -8932,7 +8874,7 @@ GameObject:
   - component: {fileID: 699042160}
   - component: {fileID: 699042161}
   m_Layer: 0
-  m_Name: 2
+  m_Name: background2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9564,7 +9506,7 @@ GameObject:
   m_Component:
   - component: {fileID: 731008767}
   m_Layer: 0
-  m_Name: pole3
+  m_Name: Environment3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9587,6 +9529,7 @@ Transform:
   - {fileID: 935464695}
   - {fileID: 1609504518}
   - {fileID: 124776059}
+  - {fileID: 1163943121}
   m_Father: {fileID: 1451388878}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -9755,7 +9698,7 @@ PrefabInstance:
     - target: {fileID: 5280314918268948012, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
       propertyPath: m_Name
-      value: treva5 (1)
+      value: animatedGrass4
       objectReference: {fileID: 0}
     - target: {fileID: 7445526038176869854, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
@@ -9887,7 +9830,7 @@ GameObject:
   - component: {fileID: 743664438}
   - component: {fileID: 743664439}
   m_Layer: 11
-  m_Name: grass5
+  m_Name: grass1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10026,8 +9969,8 @@ Transform:
   m_LocalPosition: {x: 161.57996, y: -0.7596588, z: 0}
   m_LocalScale: {x: 20.47688, y: 39.998287, z: 1}
   m_Children: []
-  m_Father: {fileID: 1249960824}
-  m_RootOrder: 3
+  m_Father: {fileID: 2017449861}
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &760181415
 MonoBehaviour:
@@ -10233,7 +10176,7 @@ PrefabInstance:
     - target: {fileID: 5280314918268948012, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
       propertyPath: m_Name
-      value: treva5 (5)
+      value: animatedGrass11
       objectReference: {fileID: 0}
     - target: {fileID: 7445526038176869854, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
@@ -10285,7 +10228,7 @@ GameObject:
   - component: {fileID: 761483118}
   - component: {fileID: 761483117}
   m_Layer: 9
-  m_Name: bala1 (12)
+  m_Name: wheat2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10460,7 +10403,7 @@ GameObject:
   - component: {fileID: 776103018}
   - component: {fileID: 776103019}
   m_Layer: 11
-  m_Name: grass5 (4)
+  m_Name: grass8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10980,7 +10923,7 @@ GameObject:
   - component: {fileID: 799452803}
   - component: {fileID: 799452802}
   m_Layer: 9
-  m_Name: kamuk4
+  m_Name: stone3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11265,7 +11208,7 @@ PrefabInstance:
     - target: {fileID: -2289091537582135439, guid: 5caef2a5131130440819778f1f32ba32,
         type: 3}
       propertyPath: m_Name
-      value: jutvar_2
+      value: man3
       objectReference: {fileID: 0}
     - target: {fileID: -2212001134980351534, guid: 5caef2a5131130440819778f1f32ba32,
         type: 3}
@@ -11532,7 +11475,7 @@ GameObject:
   - component: {fileID: 827035729}
   - component: {fileID: 827035728}
   m_Layer: 9
-  m_Name: bala1 (6)
+  m_Name: wheat2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11938,7 +11881,7 @@ GameObject:
   - component: {fileID: 877530496}
   - component: {fileID: 877530495}
   m_Layer: 9
-  m_Name: shirokkamuk (3)
+  m_Name: stone5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12283,7 +12226,7 @@ GameObject:
   - component: {fileID: 922178070}
   - component: {fileID: 922178069}
   m_Layer: 9
-  m_Name: visokkamuk (1)
+  m_Name: stone4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12432,7 +12375,7 @@ GameObject:
   - component: {fileID: 960738501}
   - component: {fileID: 960738502}
   m_Layer: 11
-  m_Name: grass6 (1)
+  m_Name: grass4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12866,7 +12809,7 @@ PrefabInstance:
     - target: {fileID: 7673642998445874258, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
       propertyPath: m_Name
-      value: treva6 (2)
+      value: animatedGrass6
       objectReference: {fileID: 0}
     - target: {fileID: 7985469552521990144, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
@@ -13025,7 +12968,7 @@ GameObject:
   - component: {fileID: 976941379}
   - component: {fileID: 976941380}
   m_Layer: 0
-  m_Name: 5
+  m_Name: background5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13790,7 +13733,7 @@ GameObject:
   - component: {fileID: 1051496809}
   - component: {fileID: 1051496810}
   m_Layer: 11
-  m_Name: grass5 (3)
+  m_Name: grass7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13994,7 +13937,7 @@ PrefabInstance:
     - target: {fileID: 7673642998445874258, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
       propertyPath: m_Name
-      value: treva6 (1)
+      value: animatedGrass3
       objectReference: {fileID: 0}
     - target: {fileID: 7985469552521990144, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
@@ -14390,7 +14333,7 @@ GameObject:
   - component: {fileID: 1086837888}
   - component: {fileID: 1086837889}
   m_Layer: 11
-  m_Name: grass5
+  m_Name: grass2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14470,7 +14413,7 @@ GameObject:
   - component: {fileID: 1101947513}
   - component: {fileID: 1101947512}
   m_Layer: 9
-  m_Name: klon2
+  m_Name: wood1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14675,7 +14618,7 @@ PrefabInstance:
     - target: {fileID: 7673642998445874258, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
       propertyPath: m_Name
-      value: treva6
+      value: animatedGrass1
       objectReference: {fileID: 0}
     - target: {fileID: 7985469552521990144, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
@@ -14846,11 +14789,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1106033356}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 48, y: 23.612717, z: 0}
+  m_LocalPosition: {x: 47.99997, y: 23.612717, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 1937763088}
-  m_RootOrder: 3
+  m_Father: {fileID: 1189446771}
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1106033358
 BoxCollider2D:
@@ -15010,7 +14953,7 @@ GameObject:
   - component: {fileID: 1122385132}
   - component: {fileID: 1122385133}
   m_Layer: 11
-  m_Name: grass5 (5)
+  m_Name: grass9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15309,7 +15252,7 @@ PrefabInstance:
     - target: {fileID: 2259605299871655273, guid: 4542931716aa7c349a7d8d7445bd55e5,
         type: 3}
       propertyPath: m_Name
-      value: jutvarRus
+      value: man2
       objectReference: {fileID: 0}
     - target: {fileID: 2711812035169882559, guid: 4542931716aa7c349a7d8d7445bd55e5,
         type: 3}
@@ -15641,7 +15584,7 @@ PrefabInstance:
     - target: {fileID: 7673642998445874258, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
       propertyPath: m_Name
-      value: treva6 (4)
+      value: animatedGrass10
       objectReference: {fileID: 0}
     - target: {fileID: 7985469552521990144, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
@@ -15816,7 +15759,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 765241397}
-  - {fileID: 2135699726}
   - {fileID: 1309789498}
   - {fileID: 652352293}
   m_Father: {fileID: 2017449861}
@@ -15863,8 +15805,8 @@ Transform:
   m_LocalPosition: {x: 424, y: 53.39, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 1451388878}
-  m_RootOrder: 3
+  m_Father: {fileID: 731008767}
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1163943122
 BoxCollider2D:
@@ -16027,7 +15969,7 @@ PrefabInstance:
     - target: {fileID: 7673642998445874258, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
       propertyPath: m_Name
-      value: treva6
+      value: animatedGrass1
       objectReference: {fileID: 0}
     - target: {fileID: 7985469552521990144, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
@@ -16183,7 +16125,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1189446771}
   m_Layer: 0
-  m_Name: pole2
+  m_Name: Environment2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16206,6 +16148,7 @@ Transform:
   - {fileID: 932196419}
   - {fileID: 1546203734}
   - {fileID: 81258740}
+  - {fileID: 1106033357}
   m_Father: {fileID: 1937763088}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -16221,7 +16164,7 @@ GameObject:
   - component: {fileID: 1197615100}
   - component: {fileID: 1197615101}
   m_Layer: 0
-  m_Name: 4
+  m_Name: background4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16647,7 +16590,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1235359252}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -112.416016, y: -6.552063, z: -10}
+  m_LocalPosition: {x: -1070.4602, y: -3.69339, z: -10}
   m_LocalScale: {x: 3.0433855, y: 0.18493956, z: 1}
   m_Children: []
   m_Father: {fileID: 1249960824}
@@ -16879,7 +16822,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1249960824
 Transform:
   m_ObjectHideFlags: 0
@@ -16894,9 +16837,6 @@ Transform:
   - {fileID: 1056325461}
   - {fileID: 1235359253}
   - {fileID: 2017449861}
-  - {fileID: 760181414}
-  - {fileID: 176366262}
-  - {fileID: 368731170}
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -17700,7 +17640,7 @@ PrefabInstance:
     - target: {fileID: 7673642998445874258, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
       propertyPath: m_Name
-      value: treva6 (2)
+      value: animatedGrass6
       objectReference: {fileID: 0}
     - target: {fileID: 7985469552521990144, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
@@ -17952,7 +17892,7 @@ GameObject:
   - component: {fileID: 1309789499}
   - component: {fileID: 1309789500}
   m_Layer: 9
-  m_Name: zemq4
+  m_Name: land4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17970,7 +17910,7 @@ Transform:
   m_LocalScale: {x: 0.998, y: 0.869, z: 1}
   m_Children: []
   m_Father: {fileID: 1137986322}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1309789499
 SpriteRenderer:
@@ -18279,7 +18219,7 @@ PrefabInstance:
     - target: {fileID: 5280314918268948012, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
       propertyPath: m_Name
-      value: treva5 (2)
+      value: animatedGrass5
       objectReference: {fileID: 0}
     - target: {fileID: 7445526038176869854, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
@@ -18331,7 +18271,7 @@ GameObject:
   - component: {fileID: 1314853271}
   - component: {fileID: 1314853270}
   m_Layer: 9
-  m_Name: malukkamuk (2)
+  m_Name: stone3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19187,7 +19127,7 @@ PrefabInstance:
     - target: {fileID: 3971660453132493747, guid: b3e6d0cd20a42e448bb10749221e5a26,
         type: 3}
       propertyPath: m_Name
-      value: jutvarka
+      value: man6
       objectReference: {fileID: 0}
     - target: {fileID: 5080452861835512238, guid: b3e6d0cd20a42e448bb10749221e5a26,
         type: 3}
@@ -19661,7 +19601,7 @@ PrefabInstance:
     - target: {fileID: 5280314918268948012, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
       propertyPath: m_Name
-      value: treva5 (2)
+      value: animatedGrass5
       objectReference: {fileID: 0}
     - target: {fileID: 7445526038176869854, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
@@ -19714,7 +19654,7 @@ GameObject:
   - component: {fileID: 1430088194}
   - component: {fileID: 1430088195}
   m_Layer: 9
-  m_Name: zemq3
+  m_Name: land3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19796,100 +19736,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   parallaxFactor: 0
---- !u!1 &1433833717
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1433833718}
-  - component: {fileID: 1433833719}
-  - component: {fileID: 1433833720}
-  m_Layer: 11
-  m_Name: foreground2
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!4 &1433833718
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1433833717}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 55.701263, y: -0.5, z: 0}
-  m_LocalScale: {x: 0.952, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 22829372}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &1433833719
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1433833717}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -1193439587
-  m_SortingLayer: 4
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: f91349ddfd1bd96429426c5d230521bc, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 321.87732, y: 18.86}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!114 &1433833720
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1433833717}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b65e481c651442b458e353acea7d39f3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  parallaxFactor: -0.2
 --- !u!1 &1451388877
 GameObject:
   m_ObjectHideFlags: 0
@@ -19921,7 +19767,6 @@ Transform:
   - {fileID: 172069257}
   - {fileID: 858966300}
   - {fileID: 731008767}
-  - {fileID: 1163943121}
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -20193,7 +20038,7 @@ GameObject:
   - component: {fileID: 1469588408}
   - component: {fileID: 1469588407}
   m_Layer: 9
-  m_Name: kamuk5
+  m_Name: stone4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20428,7 +20273,7 @@ PrefabInstance:
     - target: {fileID: 5280314918268948012, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
       propertyPath: m_Name
-      value: treva5 (1)
+      value: animatedGrass5
       objectReference: {fileID: 0}
     - target: {fileID: 7445526038176869854, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
@@ -20604,7 +20449,7 @@ PrefabInstance:
     - target: {fileID: 7673642998445874258, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
       propertyPath: m_Name
-      value: treva6 (1)
+      value: animatedGrass3
       objectReference: {fileID: 0}
     - target: {fileID: 7985469552521990144, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
@@ -21324,7 +21169,7 @@ Transform:
   m_LocalScale: {x: 6.118119, y: 2.967228, z: 1}
   m_Children: []
   m_Father: {fileID: 22829372}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1536176388
 SpriteRenderer:
@@ -21540,7 +21385,7 @@ PrefabInstance:
     - target: {fileID: 5280314918268948012, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
       propertyPath: m_Name
-      value: treva5 (3)
+      value: animatedGrass7
       objectReference: {fileID: 0}
     - target: {fileID: 7445526038176869854, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
@@ -21782,7 +21627,7 @@ GameObject:
   - component: {fileID: 1568372608}
   - component: {fileID: 1568372607}
   m_Layer: 9
-  m_Name: duner1
+  m_Name: wood3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22012,7 +21857,7 @@ PrefabInstance:
     - target: {fileID: -5061078668152335755, guid: aea84db2f2d4a7247ae5056cbacb25fd,
         type: 3}
       propertyPath: m_Name
-      value: jutvarKosa
+      value: man1
       objectReference: {fileID: 0}
     - target: {fileID: -4891210681323023808, guid: aea84db2f2d4a7247ae5056cbacb25fd,
         type: 3}
@@ -22683,7 +22528,7 @@ GameObject:
   - component: {fileID: 1586400470}
   - component: {fileID: 1586400471}
   m_Layer: 11
-  m_Name: grass6
+  m_Name: grass2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22763,7 +22608,7 @@ GameObject:
   - component: {fileID: 1593668748}
   - component: {fileID: 1593668747}
   m_Layer: 9
-  m_Name: kamuk6 (1)
+  m_Name: stone1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23236,7 +23081,7 @@ GameObject:
   - component: {fileID: 1644198510}
   - component: {fileID: 1644198511}
   m_Layer: 11
-  m_Name: grass5 (1)
+  m_Name: grass4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23522,7 +23367,7 @@ GameObject:
   - component: {fileID: 1682997120}
   - component: {fileID: 1682997119}
   m_Layer: 9
-  m_Name: bala1 (5)
+  m_Name: wheat1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23602,7 +23447,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1696537442}
   m_Layer: 0
-  m_Name: pole
+  m_Name: Environment1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23627,7 +23472,6 @@ Transform:
   - {fileID: 1941374760}
   - {fileID: 155655020}
   - {fileID: 1279410793}
-  - {fileID: 588833650}
   m_Father: {fileID: 700979641}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -23722,7 +23566,7 @@ GameObject:
   - component: {fileID: 1713082756}
   - component: {fileID: 1713082757}
   m_Layer: 11
-  m_Name: grass6 (2)
+  m_Name: grass6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23915,7 +23759,7 @@ GameObject:
   - component: {fileID: 1727134581}
   - component: {fileID: 1727134582}
   m_Layer: 11
-  m_Name: grass5 (2)
+  m_Name: grass5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24112,7 +23956,7 @@ PrefabInstance:
     - target: {fileID: -2243303530477232213, guid: c1853675f1eeac8448590a2172bee8d6,
         type: 3}
       propertyPath: m_Name
-      value: jutvarkaKosa
+      value: man5
       objectReference: {fileID: 0}
     - target: {fileID: -1650035727523078459, guid: c1853675f1eeac8448590a2172bee8d6,
         type: 3}
@@ -24994,7 +24838,7 @@ GameObject:
   - component: {fileID: 1749128141}
   - component: {fileID: 1749128140}
   m_Layer: 9
-  m_Name: shirokkamuk (1)
+  m_Name: stone1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25152,7 +24996,7 @@ GameObject:
   - component: {fileID: 1791120580}
   - component: {fileID: 1791120579}
   m_Layer: 9
-  m_Name: krugulkamuk (4)
+  m_Name: stone3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25233,7 +25077,7 @@ GameObject:
   - component: {fileID: 1792370715}
   - component: {fileID: 1792370714}
   m_Layer: 9
-  m_Name: shirokkamuk (2)
+  m_Name: stone2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25314,7 +25158,7 @@ GameObject:
   - component: {fileID: 1796306459}
   - component: {fileID: 1796306458}
   m_Layer: 9
-  m_Name: kamuk5 (1)
+  m_Name: stone6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25747,7 +25591,7 @@ GameObject:
   - component: {fileID: 1834399814}
   - component: {fileID: 1834399815}
   m_Layer: 11
-  m_Name: grass5 (3)
+  m_Name: grass6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26164,7 +26008,7 @@ GameObject:
   - component: {fileID: 1889109039}
   - component: {fileID: 1889109040}
   m_Layer: 9
-  m_Name: zemq
+  m_Name: land1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26398,7 +26242,7 @@ PrefabInstance:
     - target: {fileID: 5280314918268948012, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
       propertyPath: m_Name
-      value: treva5
+      value: animatedGrass2
       objectReference: {fileID: 0}
     - target: {fileID: 7445526038176869854, guid: 60377729657e4fc498b716c97848030c,
         type: 3}
@@ -26574,7 +26418,7 @@ PrefabInstance:
     - target: {fileID: 7673642998445874258, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
       propertyPath: m_Name
-      value: treva6 (3)
+      value: animatedGrass9
       objectReference: {fileID: 0}
     - target: {fileID: 7985469552521990144, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
@@ -27107,7 +26951,6 @@ Transform:
   - {fileID: 792188161}
   - {fileID: 152047149}
   - {fileID: 1189446771}
-  - {fileID: 1106033357}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -27278,7 +27121,7 @@ GameObject:
   - component: {fileID: 1953116288}
   - component: {fileID: 1953116287}
   m_Layer: 0
-  m_Name: bala1 (11)
+  m_Name: wheat1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27431,7 +27274,7 @@ GameObject:
   - component: {fileID: 1967227887}
   - component: {fileID: 1967227886}
   m_Layer: 9
-  m_Name: bala1 (7)
+  m_Name: wheat3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27583,7 +27426,7 @@ GameObject:
   - component: {fileID: 1983275557}
   - component: {fileID: 1983275558}
   m_Layer: 11
-  m_Name: grass6
+  m_Name: grass1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28002,7 +27845,7 @@ PrefabInstance:
     - target: {fileID: 7558635446238366206, guid: 8196b6559b56d6743bde80a6d599e330,
         type: 3}
       propertyPath: m_Name
-      value: jutvarTumen
+      value: man3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: -5506087552563234814, guid: 8196b6559b56d6743bde80a6d599e330,
@@ -28018,7 +27861,7 @@ GameObject:
   - component: {fileID: 2016373820}
   - component: {fileID: 2016373821}
   m_Layer: 11
-  m_Name: grass6 (1)
+  m_Name: grass3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28097,7 +27940,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2017449861}
   m_Layer: 0
-  m_Name: pole4
+  m_Name: Environment4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28120,6 +27963,9 @@ Transform:
   - {fileID: 677413904}
   - {fileID: 376605056}
   - {fileID: 76043706}
+  - {fileID: 760181414}
+  - {fileID: 176366262}
+  - {fileID: 368731170}
   m_Father: {fileID: 1249960824}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -28258,7 +28104,7 @@ PrefabInstance:
     - target: {fileID: 7673642998445874258, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
       propertyPath: m_Name
-      value: treva6 (1)
+      value: animatedGrass4
       objectReference: {fileID: 0}
     - target: {fileID: 7985469552521990144, guid: 71e03c29f0b5cb74a880e332982ec46e,
         type: 3}
@@ -28802,7 +28648,7 @@ PrefabInstance:
     - target: {fileID: -4563219816101305854, guid: 30a6d30058d3a7940ad01303cf20a626,
         type: 3}
       propertyPath: m_Name
-      value: jutvarkaRusa
+      value: man2
       objectReference: {fileID: 0}
     - target: {fileID: -4365766172922073463, guid: 30a6d30058d3a7940ad01303cf20a626,
         type: 3}
@@ -29148,7 +28994,7 @@ GameObject:
   - component: {fileID: 2084010142}
   - component: {fileID: 2084010141}
   m_Layer: 9
-  m_Name: kamuk2
+  m_Name: stone5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29230,7 +29076,7 @@ GameObject:
   - component: {fileID: 2094763028}
   - component: {fileID: 2094763029}
   m_Layer: 0
-  m_Name: 1
+  m_Name: background1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29450,7 +29296,7 @@ GameObject:
   - component: {fileID: 2119627645}
   - component: {fileID: 2119627646}
   m_Layer: 11
-  m_Name: grass6 (2)
+  m_Name: grass8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30055,97 +29901,3 @@ PolygonCollider2D:
       - {x: -1.2215881, y: -0.5937824}
       - {x: -1.2165222, y: -0.7236576}
       - {x: -1.1499939, y: -0.8563328}
---- !u!1 &2135699725
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2135699726}
-  - component: {fileID: 2135699727}
-  - component: {fileID: 2135699728}
-  m_Layer: 11
-  m_Name: foreground4
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!4 &2135699726
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2135699725}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 18.29602, y: -9.860001, z: 0}
-  m_LocalScale: {x: 0.98098004, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1137986322}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &2135699727
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2135699725}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -1193439587
-  m_SortingLayer: 4
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: daf97bfcbde118e418b7ee427f53c0c7, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 321.41, y: 20.402002}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!114 &2135699728
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2135699725}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b65e481c651442b458e353acea7d39f3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  parallaxFactor: -0.2

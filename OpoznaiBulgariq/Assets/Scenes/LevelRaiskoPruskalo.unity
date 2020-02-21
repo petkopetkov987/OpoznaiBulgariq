@@ -203,7 +203,7 @@ GameObject:
   - component: {fileID: 20102454}
   - component: {fileID: 20102453}
   m_Layer: 9
-  m_Name: krugulkamuk (1)
+  m_Name: stone8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -734,7 +734,7 @@ PrefabInstance:
     - target: {fileID: 4295644941618046048, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
       propertyPath: m_Name
-      value: treva3 (15)
+      value: animatedGrass9
       objectReference: {fileID: 0}
     - target: {fileID: 4759623455729417297, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
@@ -865,7 +865,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4
+      value: animatedGrass1
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -1097,7 +1097,7 @@ GameObject:
   - component: {fileID: 39652386}
   - component: {fileID: 39652385}
   m_Layer: 9
-  m_Name: kamuk6 (1)
+  m_Name: stone1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1452,7 +1452,7 @@ GameObject:
   - component: {fileID: 82041286}
   - component: {fileID: 82041287}
   m_Layer: 9
-  m_Name: zemq4
+  m_Name: land4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1545,7 +1545,7 @@ GameObject:
   - component: {fileID: 87812548}
   - component: {fileID: 87812549}
   m_Layer: 11
-  m_Name: grass4 (3)
+  m_Name: grass6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1625,7 +1625,7 @@ GameObject:
   - component: {fileID: 91913389}
   - component: {fileID: 91913390}
   m_Layer: 11
-  m_Name: grass3 (1)
+  m_Name: grass4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1705,7 +1705,7 @@ GameObject:
   - component: {fileID: 100738568}
   - component: {fileID: 100738567}
   m_Layer: 9
-  m_Name: klon2
+  m_Name: wood1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2026,7 +2026,7 @@ PrefabInstance:
     - target: {fileID: 4295644941618046048, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
       propertyPath: m_Name
-      value: treva3 (3)
+      value: animatedGrass10
       objectReference: {fileID: 0}
     - target: {fileID: 4759623455729417297, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
@@ -2262,7 +2262,7 @@ GameObject:
   - component: {fileID: 131322281}
   - component: {fileID: 131322282}
   m_Layer: 11
-  m_Name: grass3 (2)
+  m_Name: grass8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2342,7 +2342,7 @@ GameObject:
   - component: {fileID: 141858682}
   - component: {fileID: 141858683}
   m_Layer: 11
-  m_Name: grass4 (1)
+  m_Name: grass4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2514,7 +2514,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4 (8)
+      value: animatedGrass10
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -2986,7 +2986,7 @@ GameObject:
   - component: {fileID: 202339611}
   - component: {fileID: 202339610}
   m_Layer: 9
-  m_Name: duner1 (1)
+  m_Name: wood4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4030,7 +4030,7 @@ PrefabInstance:
     - target: {fileID: 4295644941618046048, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
       propertyPath: m_Name
-      value: treva3 (13)
+      value: animatedGrass7
       objectReference: {fileID: 0}
     - target: {fileID: 4759623455729417297, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
@@ -4161,7 +4161,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4 (2)
+      value: animatedGrass7
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -4403,7 +4403,7 @@ GameObject:
   - component: {fileID: 257120376}
   - component: {fileID: 257120377}
   m_Layer: 11
-  m_Name: grass4 (1)
+  m_Name: grass3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4697,7 +4697,7 @@ PrefabInstance:
     - target: {fileID: 4295644941618046048, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
       propertyPath: m_Name
-      value: treva3 (6)
+      value: animatedGrass9
       objectReference: {fileID: 0}
     - target: {fileID: 4759623455729417297, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
@@ -4971,7 +4971,7 @@ GameObject:
   - component: {fileID: 271567966}
   - component: {fileID: 271567967}
   m_Layer: 11
-  m_Name: grass3
+  m_Name: grass2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5154,7 +5154,7 @@ GameObject:
   - component: {fileID: 274952967}
   - component: {fileID: 274952966}
   m_Layer: 9
-  m_Name: duner1 (2)
+  m_Name: wood3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5292,7 +5292,7 @@ GameObject:
   - component: {fileID: 284862903}
   - component: {fileID: 284862902}
   m_Layer: 9
-  m_Name: shirokkamuk (4)
+  m_Name: stone11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5455,7 +5455,7 @@ GameObject:
   - component: {fileID: 288695598}
   - component: {fileID: 288695597}
   m_Layer: 9
-  m_Name: duner1 (3)
+  m_Name: wood2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5560,7 +5560,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4 (11)
+      value: animatedGrass13
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -5802,7 +5802,7 @@ GameObject:
   - component: {fileID: 316952384}
   - component: {fileID: 316952383}
   m_Layer: 9
-  m_Name: malukkamuk (8)
+  m_Name: stone3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5883,7 +5883,7 @@ GameObject:
   - component: {fileID: 322157684}
   - component: {fileID: 322157683}
   m_Layer: 9
-  m_Name: klon1 (2)
+  m_Name: wood3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6201,7 +6201,7 @@ GameObject:
   - component: {fileID: 325605105}
   - component: {fileID: 325605106}
   m_Layer: 11
-  m_Name: grass3 (2)
+  m_Name: grass10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6377,7 +6377,7 @@ GameObject:
   - component: {fileID: 347249151}
   - component: {fileID: 347249150}
   m_Layer: 9
-  m_Name: duner1 (4)
+  m_Name: wood2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6458,7 +6458,7 @@ GameObject:
   - component: {fileID: 353226107}
   - component: {fileID: 353226108}
   m_Layer: 11
-  m_Name: grass4 (2)
+  m_Name: grass1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6703,7 +6703,7 @@ GameObject:
   - component: {fileID: 369282251}
   - component: {fileID: 369282252}
   m_Layer: 9
-  m_Name: zemq3
+  m_Name: land3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6796,7 +6796,7 @@ GameObject:
   - component: {fileID: 379021153}
   - component: {fileID: 379021152}
   m_Layer: 9
-  m_Name: malukkamuk (9)
+  m_Name: stone9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6877,7 +6877,7 @@ GameObject:
   - component: {fileID: 380018023}
   - component: {fileID: 380018022}
   m_Layer: 9
-  m_Name: malukkamuk (2)
+  m_Name: stone11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6958,7 +6958,7 @@ GameObject:
   - component: {fileID: 391169663}
   - component: {fileID: 391169664}
   m_Layer: 11
-  m_Name: grass4 (3)
+  m_Name: grass6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7038,7 +7038,7 @@ GameObject:
   - component: {fileID: 407995154}
   - component: {fileID: 407995155}
   m_Layer: 11
-  m_Name: grass4
+  m_Name: grass3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7175,7 +7175,7 @@ GameObject:
   - component: {fileID: 425012374}
   - component: {fileID: 425012375}
   m_Layer: 11
-  m_Name: grass3 (1)
+  m_Name: grass4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7479,7 +7479,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4 (3)
+      value: animatedGrass8
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -7822,7 +7822,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4 (5)
+      value: animatedGrass3
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -8064,7 +8064,7 @@ GameObject:
   - component: {fileID: 472224663}
   - component: {fileID: 472224662}
   m_Layer: 8
-  m_Name: malukkamuk (1)
+  m_Name: stone10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8145,7 +8145,7 @@ GameObject:
   - component: {fileID: 483706785}
   - component: {fileID: 483706784}
   m_Layer: 9
-  m_Name: shirokkamuk (2)
+  m_Name: stone3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8250,7 +8250,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4 (1)
+      value: animatedGrass4
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -8559,7 +8559,7 @@ GameObject:
   - component: {fileID: 501458098}
   - component: {fileID: 501458097}
   m_Layer: 9
-  m_Name: malukkamuk (3)
+  m_Name: stone12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8854,7 +8854,7 @@ PrefabInstance:
     - target: {fileID: 4295644941618046048, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
       propertyPath: m_Name
-      value: treva3 (3)
+      value: animatedGrass6
       objectReference: {fileID: 0}
     - target: {fileID: 4759623455729417297, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
@@ -9050,7 +9050,7 @@ PrefabInstance:
     - target: {fileID: -7604184527024785688, guid: a7d43f8d7724ce74d97396125d446099,
         type: 3}
       propertyPath: m_Name
-      value: elen (2)
+      value: deer1
       objectReference: {fileID: 0}
     - target: {fileID: -7363840144143501685, guid: a7d43f8d7724ce74d97396125d446099,
         type: 3}
@@ -9666,7 +9666,7 @@ PrefabInstance:
     - target: {fileID: 4295644941618046048, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
       propertyPath: m_Name
-      value: treva3
+      value: animatedGrass2
       objectReference: {fileID: 0}
     - target: {fileID: 4759623455729417297, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
@@ -10224,7 +10224,7 @@ GameObject:
   - component: {fileID: 549266880}
   - component: {fileID: 549266881}
   m_Layer: 11
-  m_Name: grass4 (2)
+  m_Name: grass4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10363,7 +10363,7 @@ PrefabInstance:
     - target: {fileID: -7604184527024785688, guid: a7d43f8d7724ce74d97396125d446099,
         type: 3}
       propertyPath: m_Name
-      value: elen (1)
+      value: deer2
       objectReference: {fileID: 0}
     - target: {fileID: -7363840144143501685, guid: a7d43f8d7724ce74d97396125d446099,
         type: 3}
@@ -10734,7 +10734,7 @@ GameObject:
   - component: {fileID: 567751153}
   - component: {fileID: 567751154}
   m_Layer: 11
-  m_Name: grass4 (6)
+  m_Name: grass9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10838,7 +10838,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4 (9)
+      value: animatedGrass11
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -11294,7 +11294,7 @@ PrefabInstance:
     - target: {fileID: 4295644941618046048, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
       propertyPath: m_Name
-      value: treva3 (2)
+      value: animatedGrass6
       objectReference: {fileID: 0}
     - target: {fileID: 4759623455729417297, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
@@ -11477,7 +11477,7 @@ GameObject:
   - component: {fileID: 585182805}
   - component: {fileID: 585182806}
   m_Layer: 9
-  m_Name: zemq2
+  m_Name: land2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11755,7 +11755,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4 (7)
+      value: animatedGrass5
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -12133,7 +12133,7 @@ GameObject:
   - component: {fileID: 626066833}
   - component: {fileID: 626066832}
   m_Layer: 9
-  m_Name: kamuk3
+  m_Name: stone5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12238,7 +12238,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4 (3)
+      value: animatedGrass6
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -12471,7 +12471,7 @@ GameObject:
   - component: {fileID: 639480534}
   - component: {fileID: 639480535}
   m_Layer: 9
-  m_Name: zemq
+  m_Name: land
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12564,7 +12564,7 @@ GameObject:
   - component: {fileID: 643418488}
   - component: {fileID: 643418489}
   m_Layer: 11
-  m_Name: grass4 (5)
+  m_Name: grass9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13009,7 +13009,7 @@ PrefabInstance:
     - target: {fileID: 4295644941618046048, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
       propertyPath: m_Name
-      value: treva3 (5)
+      value: animatedGrass8
       objectReference: {fileID: 0}
     - target: {fileID: 4759623455729417297, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
@@ -13201,7 +13201,7 @@ GameObject:
   - component: {fileID: 677954615}
   - component: {fileID: 677954614}
   m_Layer: 9
-  m_Name: visokkamuk (1)
+  m_Name: stone2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13281,7 +13281,7 @@ GameObject:
   - component: {fileID: 678826392}
   - component: {fileID: 678826393}
   m_Layer: 11
-  m_Name: grass4 (4)
+  m_Name: grass7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13436,7 +13436,7 @@ GameObject:
   - component: {fileID: 720371155}
   - component: {fileID: 720371156}
   m_Layer: 11
-  m_Name: grass4 (5)
+  m_Name: grass8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13516,7 +13516,7 @@ GameObject:
   - component: {fileID: 727119184}
   - component: {fileID: 727119183}
   m_Layer: 9
-  m_Name: kamuk6
+  m_Name: stone9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13621,7 +13621,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4 (10)
+      value: animatedGrass12
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -13863,7 +13863,7 @@ GameObject:
   - component: {fileID: 737063188}
   - component: {fileID: 737063187}
   m_Layer: 9
-  m_Name: shirokkamuk
+  m_Name: stone2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14215,7 +14215,7 @@ PrefabInstance:
     - target: {fileID: 4295644941618046048, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
       propertyPath: m_Name
-      value: treva3 (9)
+      value: animatedGrass3
       objectReference: {fileID: 0}
     - target: {fileID: 4759623455729417297, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
@@ -14505,7 +14505,7 @@ GameObject:
   - component: {fileID: 785172017}
   - component: {fileID: 785172016}
   m_Layer: 9
-  m_Name: klon2 (2)
+  m_Name: wood1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14831,7 +14831,7 @@ GameObject:
   - component: {fileID: 809195495}
   - component: {fileID: 809195494}
   m_Layer: 9
-  m_Name: kamuk5 (2)
+  m_Name: stone10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15309,7 +15309,7 @@ GameObject:
   - component: {fileID: 867787654}
   - component: {fileID: 867787655}
   m_Layer: 11
-  m_Name: grass3 (1)
+  m_Name: grass5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15483,7 +15483,7 @@ GameObject:
   - component: {fileID: 881058806}
   - component: {fileID: 881058805}
   m_Layer: 9
-  m_Name: malukkamuk (6)
+  m_Name: stone11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15714,7 +15714,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4 (14)
+      value: animatedGrass16
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -15956,7 +15956,7 @@ GameObject:
   - component: {fileID: 918867377}
   - component: {fileID: 918867378}
   m_Layer: 11
-  m_Name: grass4 (6)
+  m_Name: grass10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16036,7 +16036,7 @@ GameObject:
   - component: {fileID: 919552375}
   - component: {fileID: 919552374}
   m_Layer: 9
-  m_Name: kamuk3 (2)
+  m_Name: stone5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16164,7 +16164,7 @@ GameObject:
   - component: {fileID: 940945728}
   - component: {fileID: 940945727}
   m_Layer: 9
-  m_Name: krugulkamuk
+  m_Name: stone3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16245,7 +16245,7 @@ GameObject:
   - component: {fileID: 943966066}
   - component: {fileID: 943966065}
   m_Layer: 9
-  m_Name: klon2 (3)
+  m_Name: wood1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16429,7 +16429,7 @@ GameObject:
   - component: {fileID: 947918235}
   - component: {fileID: 947918236}
   m_Layer: 11
-  m_Name: grass4 (3)
+  m_Name: grass6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16823,7 +16823,7 @@ PrefabInstance:
     - target: {fileID: -7604184527024785688, guid: a7d43f8d7724ce74d97396125d446099,
         type: 3}
       propertyPath: m_Name
-      value: elen_2
+      value: deer1
       objectReference: {fileID: 0}
     - target: {fileID: -7363840144143501685, guid: a7d43f8d7724ce74d97396125d446099,
         type: 3}
@@ -17561,7 +17561,7 @@ GameObject:
   - component: {fileID: 1045269138}
   - component: {fileID: 1045269137}
   m_Layer: 9
-  m_Name: klon2 (1)
+  m_Name: wood1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17643,7 +17643,7 @@ GameObject:
   - component: {fileID: 1045458283}
   - component: {fileID: 1045458284}
   m_Layer: 11
-  m_Name: grass4 (2)
+  m_Name: grass5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17780,7 +17780,7 @@ GameObject:
   - component: {fileID: 1078344297}
   - component: {fileID: 1078344298}
   m_Layer: 11
-  m_Name: grass4 (2)
+  m_Name: grass5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18109,7 +18109,7 @@ PrefabInstance:
     - target: {fileID: 4295644941618046048, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
       propertyPath: m_Name
-      value: treva3 (1)
+      value: animatedGrass3
       objectReference: {fileID: 0}
     - target: {fileID: 4759623455729417297, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
@@ -18216,7 +18216,7 @@ GameObject:
   - component: {fileID: 1087885451}
   - component: {fileID: 1087885452}
   m_Layer: 11
-  m_Name: grass4 (4)
+  m_Name: grass7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18320,7 +18320,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4 (4)
+      value: animatedGrass2
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -18562,7 +18562,7 @@ GameObject:
   - component: {fileID: 1102451228}
   - component: {fileID: 1102451227}
   m_Layer: 9
-  m_Name: malukkamuk (10)
+  m_Name: stone12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18643,7 +18643,7 @@ GameObject:
   - component: {fileID: 1102799419}
   - component: {fileID: 1102799418}
   m_Layer: 9
-  m_Name: krugulkamuk (2)
+  m_Name: stone1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18811,7 +18811,7 @@ GameObject:
   - component: {fileID: 1117267755}
   - component: {fileID: 1117267754}
   m_Layer: 9
-  m_Name: klon1 (1)
+  m_Name: wood2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19106,7 +19106,7 @@ PrefabInstance:
     - target: {fileID: 4295644941618046048, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
       propertyPath: m_Name
-      value: treva3 (10)
+      value: animatedGrass4
       objectReference: {fileID: 0}
     - target: {fileID: 4759623455729417297, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
@@ -19701,7 +19701,7 @@ PrefabInstance:
     - target: {fileID: 4295644941618046048, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
       propertyPath: m_Name
-      value: treva3 (1)
+      value: animatedGrass4
       objectReference: {fileID: 0}
     - target: {fileID: 4759623455729417297, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
@@ -19808,7 +19808,7 @@ GameObject:
   - component: {fileID: 1146293569}
   - component: {fileID: 1146293568}
   m_Layer: 9
-  m_Name: kamuk5 (1)
+  m_Name: stone4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19968,7 +19968,7 @@ GameObject:
   - component: {fileID: 1176315998}
   - component: {fileID: 1176315997}
   m_Layer: 9
-  m_Name: duner1 (5)
+  m_Name: wood4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20049,7 +20049,7 @@ GameObject:
   - component: {fileID: 1184626352}
   - component: {fileID: 1184626353}
   m_Layer: 11
-  m_Name: grass4
+  m_Name: grass1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20694,7 +20694,7 @@ PrefabInstance:
     - target: {fileID: 4295644941618046048, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
       propertyPath: m_Name
-      value: treva3 (8)
+      value: animatedGrass2
       objectReference: {fileID: 0}
     - target: {fileID: 4759623455729417297, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
@@ -20981,7 +20981,7 @@ GameObject:
   - component: {fileID: 1234324889}
   - component: {fileID: 1234324888}
   m_Layer: 0
-  m_Name: elen_2Collider
+  m_Name: deer2Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21143,7 +21143,7 @@ GameObject:
   - component: {fileID: 1256458837}
   - component: {fileID: 1256458838}
   m_Layer: 11
-  m_Name: grass4 (1)
+  m_Name: grass3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21223,7 +21223,7 @@ GameObject:
   - component: {fileID: 1260564245}
   - component: {fileID: 1260564244}
   m_Layer: 9
-  m_Name: kamuk4
+  m_Name: stone1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21304,7 +21304,7 @@ GameObject:
   - component: {fileID: 1261531110}
   - component: {fileID: 1261531109}
   m_Layer: 9
-  m_Name: kamuk4 (1)
+  m_Name: stone10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21385,7 +21385,7 @@ GameObject:
   - component: {fileID: 1284601692}
   - component: {fileID: 1284601691}
   m_Layer: 9
-  m_Name: kamuk2
+  m_Name: stone3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21822,7 +21822,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4 (4)
+      value: animatedGrass8
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -22156,7 +22156,7 @@ GameObject:
   - component: {fileID: 1337148942}
   - component: {fileID: 1337148941}
   m_Layer: 9
-  m_Name: malukkamuk
+  m_Name: stone4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22237,7 +22237,7 @@ GameObject:
   - component: {fileID: 1343889354}
   - component: {fileID: 1343889353}
   m_Layer: 9
-  m_Name: krugulkamuk (4)
+  m_Name: stone1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22318,7 +22318,7 @@ GameObject:
   - component: {fileID: 1347366812}
   - component: {fileID: 1347366811}
   m_Layer: 9
-  m_Name: krugulkamuk (3)
+  m_Name: stone4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23196,7 +23196,7 @@ GameObject:
   - component: {fileID: 1464732064}
   - component: {fileID: 1464732063}
   m_Layer: 9
-  m_Name: visokkamuk
+  m_Name: stone7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23300,7 +23300,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4 (1)
+      value: animatedGrass3
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -23609,7 +23609,7 @@ GameObject:
   - component: {fileID: 1482445405}
   - component: {fileID: 1482445404}
   m_Layer: 9
-  m_Name: malukkamuk (4)
+  m_Name: stone5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23714,7 +23714,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4 (15)
+      value: animatedGrass17
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -24126,7 +24126,7 @@ GameObject:
   - component: {fileID: 1491703790}
   - component: {fileID: 1491703789}
   m_Layer: 9
-  m_Name: klon2 (5)
+  m_Name: wood5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24208,7 +24208,7 @@ GameObject:
   - component: {fileID: 1493692398}
   - component: {fileID: 1493692397}
   m_Layer: 9
-  m_Name: kamuk1
+  m_Name: stone2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24558,7 +24558,7 @@ PrefabInstance:
     - target: {fileID: -1486335193554960775, guid: 48d3e2f914d6c4f48aae62d657da25ad,
         type: 3}
       propertyPath: m_Name
-      value: elen2
+      value: deer1
       objectReference: {fileID: 0}
     - target: {fileID: -1252104936177576412, guid: 48d3e2f914d6c4f48aae62d657da25ad,
         type: 3}
@@ -24927,7 +24927,7 @@ GameObject:
   - component: {fileID: 1507778768}
   - component: {fileID: 1507778767}
   m_Layer: 9
-  m_Name: kamuk3 (1)
+  m_Name: stone6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25008,7 +25008,7 @@ GameObject:
   - component: {fileID: 1515653819}
   - component: {fileID: 1515653818}
   m_Layer: 9
-  m_Name: kamuk1 (1)
+  m_Name: stone7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25089,7 +25089,7 @@ GameObject:
   - component: {fileID: 1517096552}
   - component: {fileID: 1517096553}
   m_Layer: 11
-  m_Name: grass4 (4)
+  m_Name: grass7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25193,7 +25193,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4 (6)
+      value: animatedGrass4
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -25565,7 +25565,7 @@ GameObject:
   - component: {fileID: 1530685306}
   - component: {fileID: 1530685307}
   m_Layer: 11
-  m_Name: grass3 (2)
+  m_Name: grass8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25645,7 +25645,7 @@ GameObject:
   - component: {fileID: 1531849889}
   - component: {fileID: 1531849888}
   m_Layer: 9
-  m_Name: kamuk2 (1)
+  m_Name: stone8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25764,7 +25764,7 @@ GameObject:
   - component: {fileID: 1548731427}
   - component: {fileID: 1548731426}
   m_Layer: 9
-  m_Name: klon1
+  m_Name: wood3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26056,7 +26056,7 @@ GameObject:
   - component: {fileID: 1569306524}
   - component: {fileID: 1569306523}
   m_Layer: 9
-  m_Name: klon2 (4)
+  m_Name: wood5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26433,7 +26433,7 @@ PrefabInstance:
     - target: {fileID: 4295644941618046048, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
       propertyPath: m_Name
-      value: treva3 (12)
+      value: animatedGrass6
       objectReference: {fileID: 0}
     - target: {fileID: 4759623455729417297, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
@@ -26840,7 +26840,7 @@ PrefabInstance:
     - target: {fileID: 4295644941618046048, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
       propertyPath: m_Name
-      value: treva3 (2)
+      value: animatedGrass7
       objectReference: {fileID: 0}
     - target: {fileID: 4759623455729417297, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
@@ -27086,7 +27086,7 @@ GameObject:
   - component: {fileID: 1640050362}
   - component: {fileID: 1640050363}
   m_Layer: 11
-  m_Name: grass3
+  m_Name: grass1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27166,7 +27166,7 @@ GameObject:
   - component: {fileID: 1640207183}
   - component: {fileID: 1640207182}
   m_Layer: 9
-  m_Name: malukkamuk (7)
+  m_Name: stone6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27247,7 +27247,7 @@ GameObject:
   - component: {fileID: 1640674464}
   - component: {fileID: 1640674465}
   m_Layer: 11
-  m_Name: grass3 (1)
+  m_Name: grass6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27541,7 +27541,7 @@ PrefabInstance:
     - target: {fileID: 4295644941618046048, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
       propertyPath: m_Name
-      value: treva3 (7)
+      value: animatedGrass1
       objectReference: {fileID: 0}
     - target: {fileID: 4759623455729417297, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
@@ -27648,7 +27648,7 @@ GameObject:
   - component: {fileID: 1652497897}
   - component: {fileID: 1652497898}
   m_Layer: 11
-  m_Name: grass4 (4)
+  m_Name: grass7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27728,7 +27728,7 @@ GameObject:
   - component: {fileID: 1653778828}
   - component: {fileID: 1653778827}
   m_Layer: 9
-  m_Name: duner1
+  m_Name: wood2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27891,7 +27891,7 @@ GameObject:
   - component: {fileID: 1685481987}
   - component: {fileID: 1685481988}
   m_Layer: 11
-  m_Name: grass3 (3)
+  m_Name: grass11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27971,7 +27971,7 @@ GameObject:
   - component: {fileID: 1706697517}
   - component: {fileID: 1706697518}
   m_Layer: 11
-  m_Name: grass3 (3)
+  m_Name: grass12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28110,7 +28110,7 @@ PrefabInstance:
     - target: {fileID: -7604184527024785688, guid: a7d43f8d7724ce74d97396125d446099,
         type: 3}
       propertyPath: m_Name
-      value: elen
+      value: deer1
       objectReference: {fileID: 0}
     - target: {fileID: -7363840144143501685, guid: a7d43f8d7724ce74d97396125d446099,
         type: 3}
@@ -28559,7 +28559,7 @@ GameObject:
   - component: {fileID: 1733280986}
   - component: {fileID: 1733280985}
   m_Layer: 9
-  m_Name: kamuk5
+  m_Name: stone8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28767,7 +28767,7 @@ GameObject:
   - component: {fileID: 1759642951}
   - component: {fileID: 1759642950}
   m_Layer: 9
-  m_Name: kamuk4 (2)
+  m_Name: stone2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28992,7 +28992,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4 (12)
+      value: animatedGrass14
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -29513,7 +29513,7 @@ PrefabInstance:
     - target: {fileID: 4295644941618046048, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
       propertyPath: m_Name
-      value: treva3 (11)
+      value: animatedGrass5
       objectReference: {fileID: 0}
     - target: {fileID: 4759623455729417297, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
@@ -29644,7 +29644,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4
+      value: animatedGrass1
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -29983,7 +29983,7 @@ GameObject:
   - component: {fileID: 1816112616}
   - component: {fileID: 1816112617}
   m_Layer: 11
-  m_Name: grass4 (1)
+  m_Name: grass3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30063,7 +30063,7 @@ GameObject:
   - component: {fileID: 1821323697}
   - component: {fileID: 1821323698}
   m_Layer: 11
-  m_Name: grass4
+  m_Name: grass2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30704,7 +30704,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4 (2)
+      value: animatedGrass5
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -30936,7 +30936,7 @@ GameObject:
   - component: {fileID: 1867880076}
   - component: {fileID: 1867880077}
   m_Layer: 11
-  m_Name: grass3
+  m_Name: grass2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31366,7 +31366,7 @@ PrefabInstance:
     - target: {fileID: 4295644941618046048, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
       propertyPath: m_Name
-      value: treva3 (14)
+      value: animatedGrass8
       objectReference: {fileID: 0}
     - target: {fileID: 4759623455729417297, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
@@ -31473,7 +31473,7 @@ GameObject:
   - component: {fileID: 1888107537}
   - component: {fileID: 1888107536}
   m_Layer: 9
-  m_Name: shirokkamuk (3)
+  m_Name: stone4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31676,7 +31676,7 @@ GameObject:
   - component: {fileID: 1923815145}
   - component: {fileID: 1923815144}
   m_Layer: 9
-  m_Name: malukkamuk (5)
+  m_Name: stone9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32084,7 +32084,7 @@ PrefabInstance:
     - target: {fileID: 4295644941618046048, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
       propertyPath: m_Name
-      value: treva3 (4)
+      value: animatedGrass7
       objectReference: {fileID: 0}
     - target: {fileID: 4759623455729417297, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
@@ -32415,7 +32415,7 @@ PrefabInstance:
     - target: {fileID: 4295644941618046048, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
       propertyPath: m_Name
-      value: treva3
+      value: animatedGrass2
       objectReference: {fileID: 0}
     - target: {fileID: 4759623455729417297, guid: d66cad3e67275654db13dea2b5f3b0e1,
         type: 3}
@@ -32590,7 +32590,7 @@ GameObject:
   - component: {fileID: 1981521567}
   - component: {fileID: 1981521566}
   m_Layer: 9
-  m_Name: kamuk3 (3)
+  m_Name: stone6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32734,7 +32734,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4 (3)
+      value: animatedGrass1
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -33108,7 +33108,7 @@ GameObject:
   - component: {fileID: 2021479929}
   - component: {fileID: 2021479930}
   m_Layer: 11
-  m_Name: grass4
+  m_Name: grass1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33447,7 +33447,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4
+      value: animatedGrass5
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -33838,7 +33838,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4 (5)
+      value: animatedGrass9
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -34174,7 +34174,7 @@ PrefabInstance:
     - target: {fileID: -6998143581521813731, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
       propertyPath: m_Name
-      value: treva4 (13)
+      value: animatedGrass15
       objectReference: {fileID: 0}
     - target: {fileID: 1102501267453075820, guid: c1642e5663e8dbf438131f577c092b28,
         type: 3}
@@ -34416,7 +34416,7 @@ GameObject:
   - component: {fileID: 2109635047}
   - component: {fileID: 2109635046}
   m_Layer: 9
-  m_Name: shirokkamuk (1)
+  m_Name: stone7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34497,7 +34497,7 @@ GameObject:
   - component: {fileID: 2110025709}
   - component: {fileID: 2110025710}
   m_Layer: 11
-  m_Name: grass3
+  m_Name: grass2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34662,7 +34662,7 @@ GameObject:
   - component: {fileID: 2122809355}
   - component: {fileID: 2122809356}
   m_Layer: 11
-  m_Name: grass4 (3)
+  m_Name: grass5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34978,7 +34978,7 @@ GameObject:
   - component: {fileID: 2145378384}
   - component: {fileID: 2145378385}
   m_Layer: 11
-  m_Name: grass4 (7)
+  m_Name: grass11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -35057,7 +35057,7 @@ PrefabInstance:
     - target: {fileID: 586020816562627731, guid: ad06ddd21b8e107469a97c96b5d7e5e9,
         type: 3}
       propertyPath: m_Name
-      value: AudioManager5
+      value: AudioManager
       objectReference: {fileID: 0}
     - target: {fileID: 586020816562627733, guid: ad06ddd21b8e107469a97c96b5d7e5e9,
         type: 3}

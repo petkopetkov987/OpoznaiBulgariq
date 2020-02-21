@@ -202,7 +202,7 @@ GameObject:
   - component: {fileID: 19276948}
   - component: {fileID: 19276949}
   m_Layer: 9
-  m_Name: krugulkamuk (1)
+  m_Name: stone8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -487,7 +487,7 @@ PrefabInstance:
     - target: {fileID: 3779362306001586715, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
       propertyPath: m_Name
-      value: prilep3
+      value: bat3
       objectReference: {fileID: 0}
     - target: {fileID: 4142596763034001737, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
@@ -772,7 +772,7 @@ PrefabInstance:
     - target: {fileID: 3779362306001586715, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
       propertyPath: m_Name
-      value: prilep3
+      value: bat3
       objectReference: {fileID: 0}
     - target: {fileID: 4142596763034001737, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
@@ -878,7 +878,7 @@ GameObject:
   - component: {fileID: 47771249}
   - component: {fileID: 47771250}
   m_Layer: 9
-  m_Name: krugulkamuk
+  m_Name: stone5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1674,7 +1674,7 @@ GameObject:
   - component: {fileID: 151862811}
   - component: {fileID: 151862812}
   m_Layer: 9
-  m_Name: kamuk6
+  m_Name: stone3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1916,7 +1916,7 @@ GameObject:
   - component: {fileID: 174475886}
   - component: {fileID: 174475887}
   m_Layer: 9
-  m_Name: malukkamuk (1)
+  m_Name: stone6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2137,7 +2137,7 @@ GameObject:
   - component: {fileID: 183472989}
   - component: {fileID: 183472990}
   m_Layer: 9
-  m_Name: krugulkamuk (1)
+  m_Name: stone7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2218,7 +2218,7 @@ GameObject:
   - component: {fileID: 204681428}
   - component: {fileID: 204681429}
   m_Layer: 9
-  m_Name: kamuk6
+  m_Name: stone1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2822,7 +2822,7 @@ GameObject:
   - component: {fileID: 362224286}
   - component: {fileID: 362224287}
   m_Layer: 9
-  m_Name: malukkamuk (2)
+  m_Name: stone9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3628,7 +3628,7 @@ GameObject:
   - component: {fileID: 504216435}
   - component: {fileID: 504216436}
   m_Layer: 9
-  m_Name: shirokkamuk (1)
+  m_Name: stone5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4358,7 +4358,7 @@ PrefabInstance:
     - target: {fileID: 3779362306001586715, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
       propertyPath: m_Name
-      value: prilep
+      value: bat1
       objectReference: {fileID: 0}
     - target: {fileID: 4142596763034001737, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
@@ -4785,7 +4785,7 @@ GameObject:
   - component: {fileID: 601650035}
   - component: {fileID: 601650036}
   m_Layer: 9
-  m_Name: shirokkamuk
+  m_Name: stone2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5711,7 +5711,7 @@ GameObject:
   - component: {fileID: 819414839}
   - component: {fileID: 819414840}
   m_Layer: 9
-  m_Name: kamuk6
+  m_Name: stone4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5879,7 +5879,7 @@ GameObject:
   - component: {fileID: 882172103}
   - component: {fileID: 882172104}
   m_Layer: 9
-  m_Name: kamuk
+  m_Name: stone4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6046,7 +6046,7 @@ GameObject:
   - component: {fileID: 915991028}
   - component: {fileID: 915991027}
   m_Layer: 9
-  m_Name: malukkamuk (1)
+  m_Name: stone5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6128,7 +6128,7 @@ GameObject:
   - component: {fileID: 916055957}
   - component: {fileID: 916055958}
   m_Layer: 9
-  m_Name: zemq2
+  m_Name: land2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6864,7 +6864,7 @@ PrefabInstance:
     - target: {fileID: 3779362306001586715, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
       propertyPath: m_Name
-      value: prilep4
+      value: bat4
       objectReference: {fileID: 0}
     - target: {fileID: 4142596763034001737, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
@@ -7974,7 +7974,7 @@ GameObject:
   - component: {fileID: 1052063219}
   - component: {fileID: 1052063218}
   m_Layer: 9
-  m_Name: shirokkamuk
+  m_Name: stone4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8055,7 +8055,7 @@ GameObject:
   - component: {fileID: 1058834784}
   - component: {fileID: 1058834783}
   m_Layer: 9
-  m_Name: krugulkamuk
+  m_Name: stone2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8136,7 +8136,7 @@ GameObject:
   - component: {fileID: 1072433157}
   - component: {fileID: 1072433158}
   m_Layer: 9
-  m_Name: malukkamuk
+  m_Name: stone2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8412,7 +8412,7 @@ PrefabInstance:
     - target: {fileID: 586020816562627731, guid: ad06ddd21b8e107469a97c96b5d7e5e9,
         type: 3}
       propertyPath: m_Name
-      value: AudioManager5
+      value: AudioManager
       objectReference: {fileID: 0}
     - target: {fileID: 586020816562627733, guid: ad06ddd21b8e107469a97c96b5d7e5e9,
         type: 3}
@@ -8679,7 +8679,7 @@ GameObject:
   - component: {fileID: 1104989481}
   - component: {fileID: 1104989482}
   m_Layer: 9
-  m_Name: malukkamuk
+  m_Name: stone2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8929,7 +8929,7 @@ PrefabInstance:
     - target: {fileID: 3779362306001586715, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
       propertyPath: m_Name
-      value: prilep3
+      value: bat3
       objectReference: {fileID: 0}
     - target: {fileID: 4142596763034001737, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
@@ -9035,7 +9035,7 @@ GameObject:
   - component: {fileID: 1113651096}
   - component: {fileID: 1113651095}
   m_Layer: 9
-  m_Name: malukkamuk
+  m_Name: stone3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9116,7 +9116,7 @@ GameObject:
   - component: {fileID: 1115503657}
   - component: {fileID: 1115503658}
   m_Layer: 9
-  m_Name: visokkamuk
+  m_Name: stone7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10037,7 +10037,7 @@ PrefabInstance:
     - target: {fileID: 3779362306001586715, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
       propertyPath: m_Name
-      value: prilep2
+      value: bat2
       objectReference: {fileID: 0}
     - target: {fileID: 4142596763034001737, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
@@ -10170,7 +10170,7 @@ GameObject:
   - component: {fileID: 1171288446}
   - component: {fileID: 1171288447}
   m_Layer: 9
-  m_Name: zemq1
+  m_Name: land1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10451,7 +10451,7 @@ PrefabInstance:
     - target: {fileID: 3779362306001586715, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
       propertyPath: m_Name
-      value: prilep
+      value: bat1
       objectReference: {fileID: 0}
     - target: {fileID: 4142596763034001737, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
@@ -10786,7 +10786,7 @@ PrefabInstance:
     - target: {fileID: 3779362306001586715, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
       propertyPath: m_Name
-      value: prilep
+      value: bat1
       objectReference: {fileID: 0}
     - target: {fileID: 4142596763034001737, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
@@ -10917,7 +10917,7 @@ GameObject:
   - component: {fileID: 1228836569}
   - component: {fileID: 1228836570}
   m_Layer: 9
-  m_Name: shirokkamuk (1)
+  m_Name: stone5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11292,7 +11292,7 @@ GameObject:
   - component: {fileID: 1389821170}
   - component: {fileID: 1389821171}
   m_Layer: 9
-  m_Name: zemq4
+  m_Name: land4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11432,7 +11432,7 @@ GameObject:
   - component: {fileID: 1421667911}
   - component: {fileID: 1421667912}
   m_Layer: 9
-  m_Name: shirokkamuk
+  m_Name: stone1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11513,7 +11513,7 @@ GameObject:
   - component: {fileID: 1442498454}
   - component: {fileID: 1442498455}
   m_Layer: 9
-  m_Name: malukkamuk (1)
+  m_Name: stone8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11665,7 +11665,7 @@ GameObject:
   - component: {fileID: 1463230636}
   - component: {fileID: 1463230637}
   m_Layer: 9
-  m_Name: kamuk6
+  m_Name: stone6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12574,7 +12574,7 @@ PrefabInstance:
     - target: {fileID: 3779362306001586715, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
       propertyPath: m_Name
-      value: prilep5
+      value: bat5
       objectReference: {fileID: 0}
     - target: {fileID: 4142596763034001737, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
@@ -12990,7 +12990,7 @@ GameObject:
   - component: {fileID: 1607769060}
   - component: {fileID: 1607769061}
   m_Layer: 9
-  m_Name: zemq3
+  m_Name: land3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13676,7 +13676,7 @@ PrefabInstance:
     - target: {fileID: 3779362306001586715, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
       propertyPath: m_Name
-      value: prilep
+      value: bat1
       objectReference: {fileID: 0}
     - target: {fileID: 4142596763034001737, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
@@ -14059,7 +14059,7 @@ GameObject:
   - component: {fileID: 1735288930}
   - component: {fileID: 1735288931}
   m_Layer: 9
-  m_Name: krugulkamuk
+  m_Name: stone4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14446,7 +14446,7 @@ PrefabInstance:
     - target: {fileID: 3779362306001586715, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
       propertyPath: m_Name
-      value: prilep2
+      value: bat2
       objectReference: {fileID: 0}
     - target: {fileID: 4142596763034001737, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
@@ -14892,7 +14892,7 @@ PrefabInstance:
     - target: {fileID: 3779362306001586715, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
       propertyPath: m_Name
-      value: prilep2
+      value: bat2
       objectReference: {fileID: 0}
     - target: {fileID: 4142596763034001737, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
@@ -15086,7 +15086,7 @@ GameObject:
   - component: {fileID: 1862753620}
   - component: {fileID: 1862753621}
   m_Layer: 9
-  m_Name: shirokkamuk
+  m_Name: stone3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15167,7 +15167,7 @@ GameObject:
   - component: {fileID: 1867844130}
   - component: {fileID: 1867844131}
   m_Layer: 9
-  m_Name: malukkamuk
+  m_Name: stone3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15434,7 +15434,7 @@ PrefabInstance:
     - target: {fileID: 3779362306001586715, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
       propertyPath: m_Name
-      value: prilep2
+      value: bat2
       objectReference: {fileID: 0}
     - target: {fileID: 4142596763034001737, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
@@ -15921,7 +15921,7 @@ GameObject:
   - component: {fileID: 1998908662}
   - component: {fileID: 1998908663}
   m_Layer: 9
-  m_Name: visokkamuk
+  m_Name: stone6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16632,7 +16632,7 @@ GameObject:
   - component: {fileID: 2075744444}
   - component: {fileID: 2075744443}
   m_Layer: 9
-  m_Name: kamuk5
+  m_Name: stone1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17082,7 +17082,7 @@ PrefabInstance:
     - target: {fileID: 3779362306001586715, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
       propertyPath: m_Name
-      value: prilep4
+      value: bat4
       objectReference: {fileID: 0}
     - target: {fileID: 4142596763034001737, guid: bf172e76831b70748a2b54b2b27e7746,
         type: 3}
@@ -17503,7 +17503,7 @@ GameObject:
   - component: {fileID: 2136176027}
   - component: {fileID: 2136176028}
   m_Layer: 9
-  m_Name: kamuk5
+  m_Name: stone1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -388,7 +388,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &23070311
 Transform:
   m_ObjectHideFlags: 0
@@ -3635,12 +3635,12 @@ PrefabInstance:
     - target: {fileID: 8147866703365612357, guid: 52a80d4b0b1189f498b4192f8d5d509e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 599
+      value: -149.4
       objectReference: {fileID: 0}
     - target: {fileID: 8147866703365612357, guid: 52a80d4b0b1189f498b4192f8d5d509e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 19.3
+      value: 5.1
       objectReference: {fileID: 0}
     - target: {fileID: 8147866703365612357, guid: 52a80d4b0b1189f498b4192f8d5d509e,
         type: 3}
@@ -5971,7 +5971,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &322802455
 Transform:
   m_ObjectHideFlags: 0
@@ -20851,7 +20851,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1225078732}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -293.97296, y: 85.02967, z: -10}
+  m_LocalPosition: {x: -292.47296, y: 84.22967, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2125336086}
@@ -31855,7 +31855,6 @@ PolygonCollider2D:
       - {x: -140.62532, y: 5.3553543}
       - {x: -145.25728, y: 7.369911}
       - {x: -149.47758, y: 8.8426895}
-      - {x: -148.99983, y: 22.037025}
       - {x: -150.61702, y: 10.216309}
       - {x: -151.86201, y: -9.895012}
       - {x: 177.15202, y: -8.94976}
@@ -33331,7 +33330,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.14420512, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -33342,7 +33341,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 1.2884102, y: 1}
   m_EdgeRadius: 0
 --- !u!1 &2045000691
 GameObject:
@@ -33725,8 +33724,7 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 135.5929, y: 22.98552}
-      - {x: 136.50574, y: -4.5677414}
+    - - {x: 136.50574, y: -4.5677414}
       - {x: 118.74933, y: -3.7436676}
       - {x: 112.813354, y: -4.08165}
       - {x: 103.819336, y: -4.700836}

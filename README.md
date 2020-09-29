@@ -1,2 +1,2 @@
 # OpoznaiBulgariq
-OpoznaiBulgariq is an interactive 2D game.
+An interactive 2D game for the National Olympiad in Information technology.
